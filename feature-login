@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>css1</title>
+	<link rel="stylesheet" href="C:\HTML\css\style.css">
+</head>
+<body>
+	<header>
+		<h1>This is a New World</h1>
+	</header>
+	<nav>
+		<ol>
+			<li><a href="">hello</li>
+			<li>how are you</li>
+		</ol>
+		<ul>
+			<li>hello</li>
+			<li>how are you</li>
+		</ul>
+	</nav>
+	<main>
+		<p style="color:deepskyblue;" >All rights reserved. No part of this work may be reproduced or transmitted
+in any form or by any means, electronic or mechanical, including
+photocopying, recording, or by any information storage or retrieval system,
+without the prior written permission of the copyright owner and the
+publisher.</p>
+	</main>
+	<footer>
+		<a href="#">hello</a>
+	</footer>
+</body>
+</html>
